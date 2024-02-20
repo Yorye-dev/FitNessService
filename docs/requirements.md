@@ -12,16 +12,18 @@ Es necesario contar con un fornt guarripe, desde el cual un usuario, pueda calcu
     - El usuario podrá iniciar sesion en la aplicacón con un usuario y una contraseña...
     - Un usuario registrado podrá registrar el numero de caloraias y macronutientes consumidos, en el día, y tambien planificar sus consumos de macros y micronutrientes,
 
+## HERRAMIENTAS DE DESARROLLO
 
+Para la parte back se utilizara SpringBoot con java, mientras que para el front se utilizara Angular.
 ## FASE
 
 ### FASE UNO 
 
-1. Tener un frontal movil.
+1. Tener un frontal web
     - Crear un diseño del front.
     - MVVM y Y organicacion por pantallas.
 
 2. Que un usuario pueda iniciar sesion.
-    - Un usuario se puede registrar en la app
+    - Un usuario se puede registrar en la api
     - Cada usuario a parte de correo y usurio tiene su propios requisitos de consumos de macos kilocalorias
     - Es necesari resaltar que todo al back se basará en microservicios, y toda esta parte de backend.  
